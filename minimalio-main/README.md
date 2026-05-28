@@ -19,7 +19,7 @@ GitHub: https://github.com/diyapayaal
 LinkedIn: https://www.linkedin.com/in/diya-payal-9244b133b/
 
 ## Live Portfolio
-Coming Soon
+portfolio-jhqc-bc3cn7y5f-diyapayaals-projects.vercel.app
 
 
     
